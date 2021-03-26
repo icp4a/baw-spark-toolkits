@@ -3,6 +3,6 @@
 
 IBM acquired the Portal Builder and External Participant toolkits in 2016 from Salient Process.
 
-Find toolkits for download along with available documentation [here](https://github.ibm.com/icp4a/spark-toolkits)
+Find toolkits for download along with available documentation [here](https://github.com/icp4a/spark-toolkits)
 
 Learn more about the latest Business Automation Workflow capabilities [here](https://www.ibm.com/products/business-automation-workflow) and take a peak/try it out
